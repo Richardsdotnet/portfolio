@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.nav-bar{
+    background-color:black;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-left: 20px;
+      
+    
+}
+
+.links a{
+    color: white;
+    font-size: 20px;
+}
+.links{
+    display: flex;
+    justify-content:space-between;
+    width: 500px;
+   
+}
+.img-top{
+    background-color: black;
+    color: white;
+}
+
+.socials{
+    display: flex;
+    width: 200px;
+    justify-content: space-between;
+
+     
+}
+
+.whatsapp{
+    height: 20px;
+    width: 20px;
+}
+
+.welcome{
+    color:white;
+    background-color: black;
+}
+
+.linkedin{
+    height: 20px;
+    width: 20px;
+    
+}
+
+.instagram{
+    height: 20px;
+    width: 20px;
+   
+}
+
+.twiter{
+    height: 20px;
+    width: 20px;
+}
+.facebook{
+    height: 20px;
+    width: 20px;
+}
+
+.first-body{
+    display: flex;
+}
+
+.welcome-img{
+   background-image: url(../components/images/Ritchie.jpg);
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 800px;
+    
+}
+
+.welcome-text{
+  background-color:black; 
+  color: white; 
+  padding-top: 100px;
+  padding-left: 50px;
+  line-height: 50px;
+}
